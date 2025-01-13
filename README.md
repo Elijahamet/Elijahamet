@@ -60,6 +60,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](elijahametefe669"gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+whatsapp number 0593126360
 
 ---
 
