@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 🌟 *[Coffee Shop Website](https://coffeecafepage.netlify.app/)*  
 🔗 An all-inclusive e-commerce platform featuring secure payment gateways, dynamic product displays, and user authentication.  
 
-🌟 *[Social Network App](https://github.com/yourusername/social-network-app)*  
+🌟 *[Social Network App](https://github.com/Elijahamet/social-network-app)*  
 🔗 A real-time social networking platform with interactive features like live chat, feed updates, and more.  
 
 🌟 *[Portfolio Website](https://yourportfolio.com)*  
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ## 🤝 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ElijahAmetefe)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
