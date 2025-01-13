@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Elijah 
 
-*🌟 Full-Stack Developer | MERN Stack Enthusiast | Builder of Digital Experiences*  
+*🌟 Front end developer | MERN Stack Enthusiast | Builder of Digital Experiences*  
 
 Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in the *MERN stack* (MongoDB, Express.js, React, Node.js). I’m passionate about crafting efficient, scalable, and visually appealing solutions that solve real-world problems.  
 
