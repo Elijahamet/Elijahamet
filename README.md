@@ -36,7 +36,7 @@ Welcome to my GitHub profile! 🚀 I’m a full-stack developer specializing in 
 
 ## ✨ Featured Projects  
 
-🌟 *[MERN E-Commerce Platform](https://github.com/yourusername/mern-ecommerce)*  
+🌟 *[Coffee Shop Website](https://coffeecafepage.netlify.app/)*  
 🔗 An all-inclusive e-commerce platform featuring secure payment gateways, dynamic product displays, and user authentication.  
 
 🌟 *[Social Network App](https://github.com/yourusername/social-network-app)*  
