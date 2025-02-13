@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I’m a front  end developer specializing in 
 🌟 *[Coffee Shop Website](https://coffeecafepage.netlify.app/)*  
 🔗 An all-inclusive e-commerce platform featuring secure payment gateways, dynamic product displays, and user authentication.  
 
-🌟 *[Social Network App](https://github.com/Elijahamet/social-network-app)*  
+🌟 *[Social Network App](https://socialnetworkprototype.netlify.app/)*  
 🔗 A real-time social networking platform with interactive features like live chat, feed updates, and more.  
 
 🌟 *[Portfolio Website](https://yourportfolio.com)*  
