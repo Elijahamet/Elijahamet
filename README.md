@@ -2,7 +2,7 @@
 
 *🌟 Front end developer | MERN Stack Enthusiast | Builder of Digital Experiences*  
 
-Welcome to my GitHub profile! 🚀 I’m a front  end developer specializing in the *MERN stack* (MongoDB, Express.js, React, Node.js). I’m passionate about crafting efficient, scalable, and visually appealing solutions that solve real-world problems. I am currently good in css, js, python, java, c# and learning more of the programming languages. I am a good graphic designer and a photographer
+Welcome to my GitHub profile! 🚀 I’m a front  end developer specializing in the *MERN stack* (MongoDB, Express.js, React, Node.js). I’m passionate about crafting efficient, scalable, and visually appealing solutions that solve real-world problems. I am currently good in css, js, python, java, c# and learning more of the programming languages. I am a good graphic designer and a photographer. I love learning new staffs in the tech world.
 
 ---
 
