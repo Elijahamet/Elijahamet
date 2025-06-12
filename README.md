@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=Elijahamet">
-  <img align="right" src="https://komarev.com/ghpvc/?username=KelvCodes&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Elijahamet&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <p align="center">
   <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>
