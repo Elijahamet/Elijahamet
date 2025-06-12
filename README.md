@@ -211,7 +211,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 
 
-![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elijahamet&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elijahamet&custom_title=Elijahamnet%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
