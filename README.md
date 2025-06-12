@@ -47,7 +47,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 🔭 I’m currently working on AcademyX (a better version of w3schools)
 
-- 🌱 I’m currently learning Full-Stack Development(MERN),AI/ML,Python and Video Editing
+- 🌱 I’m currently learning Full-Stack Development(MERN),AI/ML,Python, graphic designing and video, photo-editing..
 
 - 👯 I’m eagerly looking to collaborate with  Other Developers to build impactful projects for society
 
@@ -58,7 +58,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 📫 Reach me on onlykelvin06@gmail.com
 
 - 📄 Get to know more about me and my experiences
--  [portfolio](https://kelvinagyareyeboah.netlify.app/).
+-  [portfolio](https://myporfolioforme.netlify.app/).
 
 - ⚡ Fun fact; I am social, and a very o opened person.
 
