@@ -68,9 +68,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 	
-<a href="https://wa.me/15551234567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="kelvCodes" height="50" width="100" /></a>
-<a href="www.linkedin.com/in/
-kelvin-agyare-yeboah-6728a7301
+<a href="https://wa.me/15551234567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Elijahamet" height="50" width="100" /></a>
+<a href="https://www.linkedin.com/in/elijah-ametefe-4707362a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaeyte" height="50" width="100" /></a>
 <a href="https://www.snapchat.com/add/saint_kelvinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="kelvCodes" height="50" width="100" /></a>
 <a href="https://www.instagram.com/_.yo.kelvin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelvCodes" height="50" width="100" /></a>
