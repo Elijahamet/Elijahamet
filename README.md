@@ -115,7 +115,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,linux,md,materialui,mysql,nodejs,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,linux,md,materialui,mysql,nodejs,react,tailwind,photoshop,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -148,7 +148,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{KelvCodes}/count.svg" alt="KelvCodes :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Elijahamet}/count.svg" alt="Elijahamet :: Visitor's Count" /></p>
 
 <!--- snake -->
 <div align="center">
@@ -163,7 +163,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KelvCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Elijahamet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!--- stats & Trophy (start) -->
@@ -173,14 +173,14 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KelvCodes&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Elijahamet&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvCodes&theme=dark&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elijahamet&theme=dark&hide_border=false" />
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KelvCodes&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Elijahamet&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 
   </td>
@@ -192,7 +192,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KelvCodes&theme=matrix&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Elijahamet&theme=matrix&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (END) -->
@@ -204,14 +204,14 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 </div>
 
 <p align="center">
-  <a href="https://github.com/KelvCodes">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KelvCodes&theme=radical" alt="Kel's GitHub Contribution"/>
+  <a href="https://github.com/Elijahamet">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KelvCodes&theme=radical" alt="ELI's GitHub Contribution"/>
   </a>
 </p>
 
 
 
-![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elijahamet&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
