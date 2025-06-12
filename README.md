@@ -144,7 +144,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 
 <h3 align="left">Support My Works:</h3>
-<p><a href="https://www.buymeacoffee.com/kelvcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KelvCodes" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Elijahamet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elijahamet" /></a></p><br><br>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -205,7 +205,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 <p align="center">
   <a href="https://github.com/Elijahamet">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KelvCodes&theme=radical" alt="ELI's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elijahamet&theme=radical" alt="ELI's GitHub Contribution"/>
   </a>
 </p>
 
@@ -231,4 +231,4 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 ![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
 🏅 *Awarded by:* TEENS IN AI  
 📅 *Year:* 2024 
-📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/KelvCodes/KelvCodes/blob/main/award_cerficate.jpg)
+📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/Elijahamet/Elijahamet/blob/main/award_cerficate.jpg)
