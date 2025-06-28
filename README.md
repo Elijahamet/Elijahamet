@@ -224,11 +224,12 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
+## 📘 Currently Learning
 
-## 🏆 Awards & Achievements
+- 🧠 Deep Learning & Computer Vision
+- 🌐 Full Stack Development (React + Firebase)
+- 🎨 UI/UX Design with Figma
 
-### 🎖 *IWD GLOBAL TECHCATHON WINNER*  
-![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
-🏅 *Awarded by:* TEENS IN AI  
-📅 *Year:* 2024 
-📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/Elijahamet/Elijahamet/blob/main/award_cerficate.jpg)
+Follow my journey as I build and share real-world tech solutions.
+
+
