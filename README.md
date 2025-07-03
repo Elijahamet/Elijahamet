@@ -67,6 +67,9 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9CF&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=React+%E2%9E%A6+TypeScript+%E2%9E%A6+Node.js;TensorFlow+%E2%9E%A6+Blockchain+%E2%9E%A6+Web3;Python+%E2%9E%A6+Three.js+%E2%9E%A6+Solidity;AWS+%E2%9E%A6+MongoDB+%E2%9E%A6+WebGL" alt="Animated Tech Stack" />
 </p>
+<div align="center">
+  <img src="https://github.com/Elijahamet/Elijahamet/blob/main/images/gradient-border.gif?raw=true" width="250" style="border-radius: 50%">
+</div>
 
 
  
