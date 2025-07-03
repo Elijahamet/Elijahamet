@@ -222,6 +222,11 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://img.shields.io/badge/Verified%20GitHub%20Pro-9cf?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Code%20Maestro-ff69b4?style=for-the-badge&logo=codesandbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Innovation%20Award%20Winner-9cf?style=for-the-badge&logo=producthunt&logoColor=white">
+</div>
 
 ----------------------------------------------------------------------
 ## 📘 Currently Learning
