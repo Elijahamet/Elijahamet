@@ -28,7 +28,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 </p>
 
 
-
+## 🌐 My Current Time
+![Dynamic Time](https://img.shields.io/badge/dynamic/json?label=LOCAL%20TIME%20🕒&color=9cf&style=for-the-badge&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Fip)
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
