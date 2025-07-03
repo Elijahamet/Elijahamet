@@ -64,6 +64,10 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - ⚡ Fun fact; I am social, and a very  opened person.
 - [Stack Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=9CF&background=0D111700&center=true&vCenter=true&width=435&lines=React+%7C+TypeScript+%7C+Node.js;TensorFlow+%7C+Blockchain+%7C+Three.js;AWS+%7C+MongoDB+%7C+WebGL;Tailwind+%7C+Python+%7C+Solidity)
 
+- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9CF&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=React+%E2%9E%A6+TypeScript+%E2%9E%A6+Node.js;TensorFlow+%E2%9E%A6+Blockchain+%E2%9E%A6+Web3;Python+%E2%9E%A6+Three.js+%E2%9E%A6+Solidity;AWS+%E2%9E%A6+MongoDB+%E2%9E%A6+WebGL" alt="Animated Tech Stack" />
+</p>
+
 
  
 
