@@ -164,6 +164,11 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
+### 🏙️ My GitHub Skyline in 3D
+
+[![GitHub Skyline](https://user-images.githubusercontent.com/836784/179295872-cc6182b4-8e13-4dc8-b03c-1e5b99d0538d.gif)](https://skyline.github.com/elijahamet/2025)
+
+> 🌃 *Click the skyline to explore my GitHub in 3D!*
 
 
 ### ✍Random Dev Quote
