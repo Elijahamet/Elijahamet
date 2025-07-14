@@ -166,13 +166,6 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 </div>
 
 
-## 🏙️ My GitHub Skyline in 3D
-
-[![GitHub Skyline](https://user-images.githubusercontent.com/836784/179295872-cc6182b4-8e13-4dc8-b03c-1e5b99d0538d.gif)](https://skyline.github.com/Elijahamet/2025)
-
-> 🌃 *Click the skyline to explore my GitHub in 3D!*
-
-
 ### ✍Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
