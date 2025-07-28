@@ -60,7 +60,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 📫 Reach me on elijahametefe669@gmail.com
 
 - 📄 Get to know more about me and my experiences
--  [portfolio](https://myporfolioforme.netlify.app/).
+-  [portfolio](https://mywebsite09.netlify.app/).
 
 - ⚡ Fun fact; I am social, and a very  opened person.
 - [Stack Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=9CF&background=0D111700&center=true&vCenter=true&width=435&lines=React+%7C+TypeScript+%7C+Node.js;TensorFlow+%7C+Blockchain+%7C+Three.js;AWS+%7C+MongoDB+%7C+WebGL;Tailwind+%7C+Python+%7C+Solidity)
