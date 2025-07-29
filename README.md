@@ -22,7 +22,7 @@ With a deep interest in Full Stack Web & App Development, Software Engineering a
 For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p>
 
 <p align="center">
-  <a href="https://myporfolioforme.netlify.app/" target="_blank">
+  <a href="https://mywebsite09.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
@@ -129,7 +129,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
