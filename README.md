@@ -5,7 +5,7 @@
   <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>
 
 </p>
-<!-- <h1 align="center">Hey👋, I'm Kelvin Yeboah</h1> -->
+<!-- <h1 align="center">Hey👋, I'm Elijah Ametefe</h1> -->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Elijah+ Ametefe;Into+Full+Stack+Dev+And+ML+Enthusiast...👨🏻‍💻;" style="width: 100%;">
 
 
