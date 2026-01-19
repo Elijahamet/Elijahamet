@@ -23,7 +23,7 @@ With a deep interest in Full Stack Web & App Development, Software Engineering a
 For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p>
 
 <p align="center">
-  <a href="https://mywebsite09.netlify.app/" target="_blank">
+  <a href="https://elijahametefe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
@@ -61,7 +61,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 - 📫 Reach me on elijahametefe669@gmail.com
 
 - 📄 Get to know more about me and my experiences
--  [portfolio](https://mywebsite09.netlify.app/).
+-  [portfolio](https://elijahametefe.netlify.app/).
 
 - ⚡ Fun fact; I am social, and a very  opened person.
 - [Stack Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=9CF&background=0D111700&center=true&vCenter=true&width=435&lines=React+%7C+TypeScript+%7C+Node.js;TensorFlow+%7C+Blockchain+%7C+Three.js;AWS+%7C+MongoDB+%7C+WebGL;Tailwind+%7C+Python+%7C+Solidity)
